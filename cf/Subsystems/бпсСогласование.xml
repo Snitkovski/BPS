@@ -68,9 +68,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">CommonCommand.бпсСведенияОРазработчике</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonForm.бпсСведенияОРазработчике</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Enum.бпсВариантыSMTPАутентификации</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Пользователи</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">SessionParameter.ТекущийПользователь</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">5be9b708-2b7b-45cf-ab96-3d0d40907c21</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">1c962c09-355f-49a6-aa0f-32951da3d23e</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.бпсКонстанты</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.бпсПроксиСерверы</xr:Item>
 			</Content>

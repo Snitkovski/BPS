@@ -42,7 +42,7 @@
 			<DescriptionLength>150</DescriptionLength>
 			<Addressing>InformationRegister.бпсРегистрАдресации</Addressing>
 			<MainAddressingAttribute>Task.бпсЗадача.AddressingAttribute.Пользователь</MainAddressingAttribute>
-			<CurrentPerformer>SessionParameter.ТекущийПользователь</CurrentPerformer>
+			<CurrentPerformer>SessionParameter.CurrentUser</CurrentPerformer>
 			<BasedOn/>
 			<Characteristics/>
 			<DefaultPresentation>AsDescription</DefaultPresentation>
@@ -87,7 +87,7 @@
 					</Synonym>
 					<Comment/>
 					<Type>
-						<v8:Type>cfg:CatalogRef.Пользователи</v8:Type>
+						<v8:Type>cfg:CatalogRef.Users</v8:Type>
 					</Type>
 					<PasswordMode>false</PasswordMode>
 					<Format/>
@@ -256,7 +256,7 @@
 					</Synonym>
 					<Comment/>
 					<Type>
-						<v8:Type>cfg:CatalogRef.Пользователи</v8:Type>
+						<v8:Type>cfg:CatalogRef.Users</v8:Type>
 					</Type>
 					<PasswordMode>false</PasswordMode>
 					<Format/>

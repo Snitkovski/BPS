@@ -101,7 +101,7 @@
 				<xr:Common>false</xr:Common>
 			</Visibility>
 		</Command>
-		<Command name="Catalog.Пользователи.StandardCommand.OpenList">
+		<Command name="0:1c962c09-355f-49a6-aa0f-32951da3d23e">
 			<Visibility>
 				<xr:Common>false</xr:Common>
 			</Visibility>
@@ -209,7 +209,7 @@
 		<Command name="Catalog.бпсУчетныеЗаписиЭлектроннойПочты.StandardCommand.OpenList">
 			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
 		</Command>
-		<Command name="Catalog.Пользователи.StandardCommand.OpenList">
+		<Command name="0:1c962c09-355f-49a6-aa0f-32951da3d23e">
 			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
 		</Command>
 		<Command name="Catalog.бпсКонстанты.StandardCommand.OpenList">
