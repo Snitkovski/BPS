@@ -253,7 +253,7 @@
 							</dcsset:filter>
 							<dcsset:appearance>
 								<dcscor:item xsi:type="dcsset:SettingsParameterValue">
-									<dcscor:parameter>ЦветТекста</dcscor:parameter>
+									<dcscor:parameter>TextColor</dcscor:parameter>
 									<dcscor:value xsi:type="v8ui:Color">#FF0000</dcscor:value>
 								</dcscor:item>
 							</dcsset:appearance>
@@ -273,7 +273,7 @@
 							</dcsset:filter>
 							<dcsset:appearance>
 								<dcscor:item xsi:type="dcsset:SettingsParameterValue">
-									<dcscor:parameter>ЦветТекста</dcscor:parameter>
+									<dcscor:parameter>TextColor</dcscor:parameter>
 									<dcscor:value xsi:type="v8ui:Color">#339966</dcscor:value>
 								</dcscor:item>
 							</dcsset:appearance>
@@ -293,7 +293,7 @@
 							</dcsset:filter>
 							<dcsset:appearance>
 								<dcscor:item xsi:type="dcsset:SettingsParameterValue">
-									<dcscor:parameter>ЦветТекста</dcscor:parameter>
+									<dcscor:parameter>TextColor</dcscor:parameter>
 									<dcscor:value xsi:type="v8ui:Color">#FF9900</dcscor:value>
 								</dcscor:item>
 							</dcsset:appearance>
@@ -313,7 +313,7 @@
 							</dcsset:filter>
 							<dcsset:appearance>
 								<dcscor:item xsi:type="dcsset:SettingsParameterValue">
-									<dcscor:parameter>ЦветТекста</dcscor:parameter>
+									<dcscor:parameter>TextColor</dcscor:parameter>
 									<dcscor:value xsi:type="v8ui:Color">#0000FF</dcscor:value>
 								</dcscor:item>
 							</dcsset:appearance>
